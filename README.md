@@ -1,7 +1,8 @@
 # Hey, I'm Vishal 👋
 
 I'm a senior full-stack engineer and systems architect based in Nagaland, India. 
-For over 7 years, I’ve been designing high-throughput backends, keeping p99 database latency low, and building web apps that feel fast[cite: 1]. Whether it’s architecting multi-tenant platforms, setting up concurrent task queues, or standardizing design systems across massive media apps, I care about code that scales predictably and stays maintainable.
+For over 7 years, I’ve been designing high-throughput backends, keeping p99 database latency low, and building web apps that feel fast. 
+Whether it’s architecting multi-tenant platforms, setting up concurrent task queues, or standardizing design systems across massive media apps, I care about code that scales predictably and stays maintainable.
 When I’m not profiling queries or writing Go and TypeScript, I mentor early-career devs and chase guitar tones.
 
 ---
