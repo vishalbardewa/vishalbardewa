@@ -1,18 +1,18 @@
 # Hey, I'm Vishal 👋
 
-I'm a senior full-stack engineer and systems architect based in Nagaland, India[cite: 1]. 
-For over 7 years, I’ve been designing high-throughput backends, keeping p99 database latency low, and building web apps that feel fast[cite: 1]. Whether it’s architecting multi-tenant platforms, setting up concurrent task queues, or standardizing design systems across massive media apps, I care about code that scales predictably and stays maintainable[cite: 1].
-When I’m not profiling queries or writing Go and TypeScript, I mentor early-career devs and chase guitar tones[cite: 1].
+I'm a senior full-stack engineer and systems architect based in Nagaland, India. 
+For over 7 years, I’ve been designing high-throughput backends, keeping p99 database latency low, and building web apps that feel fast[cite: 1]. Whether it’s architecting multi-tenant platforms, setting up concurrent task queues, or standardizing design systems across massive media apps, I care about code that scales predictably and stays maintainable.
+When I’m not profiling queries or writing Go and TypeScript, I mentor early-career devs and chase guitar tones.
 
 ---
 
 ### What I Actually Do
 
-- ⚡ **Backend & Distributed Systems:** Designing microservices, concurrent worker queues, and event streams using **Go**, **Node.js**, and **NestJS**[cite: 1].
-- 🗄 **Data Performance:** Deep-diving into **PostgreSQL** query plans, complex CTEs, index strategies, and **Redis** caching layers to kill latency bottlenecks[cite: 1].
-- 🎨 **Modern Frontends & Design Systems:** Building accessible UI architecture, slick state management, and optimized rendering with **React**, **Next.js**, **TypeScript**, and **Tailwind**[cite: 1].
-- 🛠 **Developer Velocity:** Leveraging pragmatic AI workflows and robust CI/CD to eliminate boilerplate, write better tests, and ship without breaking production[cite: 1].
-- 👥 **Mentorship:** Having trained 100+ engineers from scratch, I believe clear architecture and clean documentation beat clever code every single time[cite: 1].
+- ⚡ **Backend & Distributed Systems:** Designing microservices, concurrent worker queues, and event streams using **Go**, **Node.js**, and **NestJS**.
+- 🗄 **Data Performance:** Deep-diving into **PostgreSQL** query plans, complex CTEs, index strategies, and **Redis** caching layers to kill latency bottlenecks.
+- 🎨 **Modern Frontends & Design Systems:** Building accessible UI architecture, slick state management, and optimized rendering with **React**, **Next.js**, **TypeScript**, and **Tailwind**.
+- 🛠 **Developer Velocity:** Leveraging pragmatic AI workflows and robust CI/CD to eliminate boilerplate, write better tests, and ship without breaking production.
+- 👥 **Mentorship:** Having trained 100+ engineers from scratch, I believe clear architecture and clean documentation beat clever code every single time.
 
 ---
 
